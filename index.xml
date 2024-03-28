@@ -3,9 +3,15 @@
     <channel>
       <title>🐉DnD Wiki🐲</title>
       <link>https://quartz.jzhao.xyz</link>
-      <description>Laatste 10 notities on 🐉DnD Wiki🐲</description>
+      <description>Last 10 notes on 🐉DnD Wiki🐲</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Magic Items</title>
+    <link>https://quartz.jzhao.xyz/Magic-Items/Magic-Items</link>
+    <guid>https://quartz.jzhao.xyz/Magic-Items/Magic-Items</guid>
+    <description>Magic Items Magic items are presented in alphabetical order. A magic item’s description gives the item’s name, its category, its rarity, and its magical properties.</description>
+    <pubDate>Thu, 28 Mar 2024 21:11:12 GMT</pubDate>
+  </item><item>
     <title>Seagrown Caves</title>
     <link>https://quartz.jzhao.xyz/World/Stormwreck-Isle/Locations/Seagrown-Caves</link>
     <guid>https://quartz.jzhao.xyz/World/Stormwreck-Isle/Locations/Seagrown-Caves</guid>
@@ -57,13 +63,7 @@
     <title>(Kobold) Laylee</title>
     <link>https://quartz.jzhao.xyz/World/Stormwreck-Isle/Characters/(Kobold)-Laylee</link>
     <guid>https://quartz.jzhao.xyz/World/Stormwreck-Isle/Characters/(Kobold)-Laylee</guid>
-    <description> Laylee Information Laylee is a kobold living on Dragon’s rest She is the primary helper of (Kobold) Myla. Really enthousiastic about homebrewed inventions, like an improvised weapon she made, the ScorpoStick; a long stick with a scropion in a cage at the end.</description>
-    <pubDate>Thu, 28 Mar 2024 11:08:04 GMT</pubDate>
-  </item><item>
-    <title>(Kobold) Kilnip</title>
-    <link>https://quartz.jzhao.xyz/World/Stormwreck-Isle/Characters/(Kobold)-Kilnip</link>
-    <guid>https://quartz.jzhao.xyz/World/Stormwreck-Isle/Characters/(Kobold)-Kilnip</guid>
-    <description> Kilnip Information Kilnip is a kobold living on Dragon’s rest(../Locations/Dragon’s rest.md) .</description>
+    <description>...</description>
     <pubDate>Thu, 28 Mar 2024 11:08:04 GMT</pubDate>
   </item>
     </channel>
